@@ -1,0 +1,17 @@
+C:\Users\Охана\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Охана\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Охана\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.Identity.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.Main.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.Hand.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.Power.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.Tool.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.InfTable.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.InfFun.resources
+C:\Users\Охана\source\repos\Practice\Practice\obj\Debug\Practice.InfProc.resources
